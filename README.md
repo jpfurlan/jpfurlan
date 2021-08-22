@@ -24,6 +24,9 @@
 <div> 
    <a href="https://www.linkedin.com/in/jpfurlan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+<p align="center"> Quantidade de visitas no meu perfil desde: 22/08/2021  </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jpfurlan/count.svg" /></p>
 
+<p align="center"> Volte sempre </p>
 </div>
 
