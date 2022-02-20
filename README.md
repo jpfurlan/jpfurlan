@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
  
   <div>
-  <p>Site que desenvolvi totalmente em Angular/Typescript para gerar um currículo em pdf já formatado </p>
+  Site que desenvolvi totalmente em Angular/Typescript para gerar um currículo em pdf já formatado
    <a href="url">https://www.curriculumbrasil.com.br/</a>
    
  </div>
