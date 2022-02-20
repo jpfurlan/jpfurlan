@@ -5,11 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpfurlan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
- 
+ <span>Site que desenvolvi totalmente em Angular/Typescript para gerar um currículo em pdf já formatado</span>
   <div>
-  Site que desenvolvi totalmente em Angular/Typescript para gerar um currículo em pdf já formatado
    <a href="url">https://www.curriculumbrasil.com.br/</a>
-   
  </div>
  
  
