@@ -1,14 +1,17 @@
 ## Bem vindo ao meu github
+  <span>Site que desenvolvi totalmente em Angular/Typescript para gerar um currículo em pdf já formatado</span>
+  <div>
+   <a href="url">https://www.curriculumbrasil.com.br/</a>
+ </div>
+ 
+ 
  <div>
   <a href="https://www.linkedin.com/in/jpfurlan/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpfurlan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpfurlan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
- <span>Site que desenvolvi totalmente em Angular/Typescript para gerar um currículo em pdf já formatado</span>
-  <div>
-   <a href="url">https://www.curriculumbrasil.com.br/</a>
- </div>
+
  
  
 ## Tecnologias que trabalho atualmente
