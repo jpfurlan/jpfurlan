@@ -18,7 +18,11 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
  </div>
-  
+  <div>
+   Site que desenvolvi totalmente em Angular/Typescript
+   <a href="url">https://www.curriculumbrasil.com.br/</a>
+   <p>Site para gerar um currículo em pdf já formatado</p>
+ </div>
   ##
  
 <div> 
