@@ -3,7 +3,7 @@
   <div>
    <a href="https://www.curriculumbrasil.com.br/">Curriculum Brasil</a>
  </div>
- 
+ <p>-------------------------------------------------------------------------------------------------------------------------------------</p>
  <br>
  <div>
   <a href="https://www.linkedin.com/in/jpfurlan/">
