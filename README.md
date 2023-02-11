@@ -1,7 +1,7 @@
 ## Bem vindo ao meu github
   <span>Site que desenvolvi totalmente em Angular/Typescript para gerar um currículo em pdf já formatado</span>
   <div>
-   <a href="https://www.curriculumbrasil.com.br/">Curriculum Brasil</a>
+   <a href="https://curriculumbrasil-37s6f9yex-jpfurlan.vercel.app/#/home">Curriculum Brasil</a>
  </div>
  <p>-------------------------------------------------------------------------------------------------------------------------------------</p>
  <br>
