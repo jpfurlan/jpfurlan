@@ -34,8 +34,8 @@
    <div style="display: inline_block"><br>
  ## Certificações
   <br>
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-   <h3>&#x2713; AZ-900 : Azure fundamentals</h3>
+  <img align="center" height="30" width="40" src="[https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)">
+   <h1>&#x2713; AZ-900 : Azure fundamentals</h1>
 <div> 
   
    <a href="https://www.linkedin.com/in/jpfurlan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
