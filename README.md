@@ -25,7 +25,8 @@
  ## Tecnologias que estou estudando
   <br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> --Certificação AZ900 - Azure fundamentals
+   <br>
+   <img align="left" height="30" width="40" src="https://icons8.com/icon/11695/checkmark"> --Certificação AZ900 - Azure fundamentals
  </div>
   ## Tecnologias que quero aprender
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
