@@ -25,13 +25,19 @@
  ## Tecnologias que estou estudando
   <br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-   <br>
-   <img align="left" height="30" width="40" src="https://icons8.com/icon/11695/checkmark"> --Certificação AZ900 - Azure fundamentals
  </div>
   ## Tecnologias que quero aprender
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
  <br>
 <div> 
+  
+   <div style="display: inline_block"><br>
+ ## Certificações
+  <br>
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+   <h3>&#x2713; AZ-900 : Azure fundamentals</h3>
+<div> 
+  
    <a href="https://www.linkedin.com/in/jpfurlan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <p align="center"> Quantidade de visitas no meu perfil desde: 22/08/2021  </p>
